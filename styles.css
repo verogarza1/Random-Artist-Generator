@@ -1,5 +1,6 @@
 @media screen and (max-width:1500px){
 html {
+    background-image: url(https://img1.picmix.com/output/stamp/normal/3/8/7/5/325783_cc71b.gif);
     background-color: ghostwhite;
 }
 
@@ -18,7 +19,7 @@ h2 {
 }
 
 input {
-  background-color: lavenderblush;
+  background-color: ghostwhite;
   width: 100px;
   height: 100px;
   align-items: center;
