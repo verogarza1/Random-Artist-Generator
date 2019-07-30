@@ -1,0 +1,68 @@
+@media screen and (max-width:1500px){
+html {
+    background-color: ghostwhite;
+}
+
+h1 {
+  font-family: "Barrio", cursive;
+  color: palevioletred;
+  text-align: center;
+  font-size: 500%
+}
+
+h2 {
+  font-family: "Barrio", cursive;
+  color: palevioletred;
+  text-align:center;
+  font-size: 300%
+}
+
+input {
+  background-color: lavenderblush;
+  width: 100px;
+  height: 100px;
+  align-items: center;
+  color: black;
+  border-style: none;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.fifties {
+  font-family: "Fontdiner Swanky", cursive;
+  font-size: 200%
+}
+
+.sixties {
+  font-family: "Fascinate Inline", cursive;
+  font-size: 200%
+}
+
+.seventies {
+  font-family: "Bungee Shade", cursive;
+  font-size: 200%
+}
+
+.eighties {
+  font-family: "Press Start 2P", cursive;
+  font-size: 125%
+}
+
+.nineties {
+  font-family: "Lacquer", cursive;
+  font-size: 200%
+}
+
+.thousands {
+  font-family: "Bonbon", cursive;
+  font-size: 200%
+}
+
+.tens {
+  font-family: "Permanent Marker", cursive;
+  font-size: 200%
+}
+}
